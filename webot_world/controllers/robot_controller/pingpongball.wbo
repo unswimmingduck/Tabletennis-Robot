@@ -1,0 +1,43 @@
+#VRML_SIM R2022a utf8
+DEF pingpongball Solid {
+  translation 1.37 0.1 1.45
+  rotation 1 0 0 0
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColorMap ImageTexture {
+          url [
+            "https://raw.githubusercontent.com/cyberbotics/webots/R2022a/projects/objects/balls/protos/textures/pingpong_logo.jpg"
+          ]
+        }
+        roughness 1
+        metalness 0
+        textureTransform TextureTransform {
+          scale 1 0.6
+          translation 0 0.3
+        }
+      }
+      geometry DEF SPHERE Sphere {
+        radius 0.02
+        subdivision 3
+      }
+    }
+  ]
+  name "ping pong ball"
+  model "ping pong ball"
+  contactMaterial "ping pong ball material"
+  boundingObject Sphere {
+    radius 0.02
+    subdivision 3
+  }
+  physics Physics {
+    density 84
+    damping Damping {
+      linear 0.05
+      angular 0.1
+    }
+  }
+  linearVelocity 0 0 0
+  angularVelocity 0 0 0
+}
+

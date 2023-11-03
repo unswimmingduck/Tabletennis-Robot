@@ -10,7 +10,7 @@
   
 
 ## 2. Teamwork
- &emsp;&emsp; As the team leader, I was responsible for the planning and scheduling of the entire project design. 
+ &emsp;&emsp; As the team leader, I was responsible for the planning and scheduling of the entire project design.&emsp;&emsp;   
  &emsp;&emsp;First of all, I collected relevant literature and information on the Internet, and then I organized a group discussion, letting each group member provide their own views from their own imagination. 
  &emsp;&emsp;After the meeting, I summarized the ideas of each group member and combined them with the information I had collected before, to plan the design of the whole project. 
  &emsp;&emsp;Finally, I came up with the three most urgent problems, firstly, how to predict the trajectory of the ball, secondly, what direction of force should be applied to the ball when hitting the ball, and lastly, how to plan the trajectory of the robotic arm. 

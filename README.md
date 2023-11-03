@@ -10,12 +10,12 @@
   
 
 ## 2. Teamwork
-&emsp;&emsp; As the team leader, I was responsible for the planning and scheduling of the entire project design. 
-&emsp;&emsp;First of all, I collected relevant literature and information on the Internet, and then I organized a group discussion, letting each group member provide their own views from their own imagination. 
-&emsp;&emsp;After the meeting, I summarized the ideas of each group member and combined them with the information I had collected before, to plan the design of the whole project. 
-&emsp;&emsp;Finally, I came up with the three most urgent problems, firstly, how to predict the trajectory of the ball, secondly, what direction of force should be applied to the ball when hitting the ball, and lastly, how to plan the trajectory of the robotic arm. 
-&emsp;&emsp;I reviewed many relevant papers and online materials, and finally assigned relevant tasks to my group members, monitored their progress regularly, and also held regular group meetings so that everyone could share their gains and questions in recent times, and help group members to complete their tasks. 
-&emsp;&emsp;I also took up the most difficult task in the assignment of tasks, mainly solving the problem of the way of hitting the ball and the trajectory planning of the robotic arm. After reviewing a lot of literature and information, we chose [robotic-toolbox-python](https://github.com/petercorke/robotics-toolbox-python)(a github project contributed by [petercorke](https://github.com/petercorke)) for the control of the robotic arm and solved the problem of which direction of force should be applied when hitting the ball after referring to many papers.  
+ &emsp;&emsp; As the team leader, I was responsible for the planning and scheduling of the entire project design. 
+ &emsp;&emsp;First of all, I collected relevant literature and information on the Internet, and then I organized a group discussion, letting each group member provide their own views from their own imagination. 
+ &emsp;&emsp;After the meeting, I summarized the ideas of each group member and combined them with the information I had collected before, to plan the design of the whole project. 
+ &emsp;&emsp;Finally, I came up with the three most urgent problems, firstly, how to predict the trajectory of the ball, secondly, what direction of force should be applied to the ball when hitting the ball, and lastly, how to plan the trajectory of the robotic arm. 
+ &emsp;&emsp;I reviewed many relevant papers and online materials, and finally assigned relevant tasks to my group members, monitored their progress regularly, and also held regular group meetings so that everyone could share their gains and questions in recent times, and help group members to complete their tasks. 
+ &emsp;&emsp;I also took up the most difficult task in the assignment of tasks, mainly solving the problem of the way of hitting the ball and the trajectory planning of the robotic arm. After reviewing a lot of literature and information, we chose [robotic-toolbox-python](https://github.com/petercorke/robotics-toolbox-python)(a github project contributed by [petercorke](https://github.com/petercorke)) for the control of the robotic arm and solved the problem of which direction of force should be applied when hitting the ball after referring to many papers.  
   
 ## 3. Environment and Dependencies
 
